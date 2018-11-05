@@ -1,6 +1,6 @@
 The files in this repository are Python source code for the result found in:
 
-Hansen, B., Tolbert, B., Vernon, C., Hedengren, J.D., Model Predictive Automatic Control of Sucker Rod Pump System with Simulation Case Study, Computers & Chemical Engineering, under revision.
+Hansen, B., Tolbert, B., Vernon, C., Hedengren, J.D., Model Predictive Automatic Control of Sucker Rod Pump System with Simulation Case Study, Computers & Chemical Engineering, 2018. https://doi.org/10.1016/j.compchemeng.2018.08.018
 
 * Analytical_Solution.py - Section 3.3
 * Simulation.py - Section 4
@@ -11,3 +11,4 @@ Hansen, B., Tolbert, B., Vernon, C., Hedengren, J.D., Model Predictive Automatic
 * MHE_MPC.py - Section 6.3
 * MHE_MPC_reduced.py - Section 6.3 with reduced model
 
+Preprint: https://apm.byu.edu/prism/uploads/Members/2018_hansen_rod_pumping.pdf
